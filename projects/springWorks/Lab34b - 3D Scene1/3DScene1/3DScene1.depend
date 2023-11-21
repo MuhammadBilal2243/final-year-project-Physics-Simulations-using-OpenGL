@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1370683414 source:d:\jamil ahmad\cg programs\3dscene1\main.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<windows.h>
+	<math.h>
+	<GL/glaux.h>
+
+1598808119 source:d:\teaching & research\lectures\computer graphics\cg programs\cg programs2015\3dscene1\main.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<windows.h>
+	<math.h>
+	<GL/glext.h>
+	"SOIL.h"
+
+1613907599 source:c:\users\khan\desktop\cg lectures\lab34 - camera movement\lab34b - 3d scene1\3dscene1\main.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<windows.h>
+	<math.h>
+	<GL/glext.h>
+	"SOIL.h"
+
+1614294406 source:f:\ussb\cg lectures\lab34 - camera movement\lab34b - 3d scene1\3dscene1\main.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<windows.h>
+	<math.h>
+	<GL/glext.h>
+	"SOIL.h"
+	<string.h>
+
+1614695566 source:c:\users\bilal\desktop\projects\springworks\lab34b - 3d scene1\3dscene1\main.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<windows.h>
+	<math.h>
+	<GL/glext.h>
+	"SOIL.h"
+

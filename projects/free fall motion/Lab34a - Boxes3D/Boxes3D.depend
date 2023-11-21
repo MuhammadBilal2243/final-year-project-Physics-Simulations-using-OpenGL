@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1560585772 source:d:\teaching & research\lectures\computer graphics\se 6th semester (2019)\boxes3d\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<SOIL.h>
+	<windows.h>
+
+1614148014 source:c:\users\bilal\desktop\cg lectures\lab34 - camera movement\lab34a - boxes3d\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<SOIL.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+
+1614886531 source:c:\users\bilal\desktop\projects\free fall motion\lab34a - boxes3d\main.cpp
+	<stdlib.h>
+	<stdarg.h>
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<SOIL.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<string>
+

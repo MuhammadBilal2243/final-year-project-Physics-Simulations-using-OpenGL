@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1560585772 source:d:\teaching & research\lectures\computer graphics\se 6th semester (2019)\boxes3d\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<SOIL.h>
+	<windows.h>
+
+1614196010 source:c:\users\bilal\desktop\cg lectures\lab34 - camera movement\lab34a - boxes3d\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<SOIL.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+
+1614869852 source:c:\users\bilal\desktop\projects\springworks\lab34a - boxes3d\main.cpp
+	<stdlib.h>
+	<stdarg.h>
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+	<windows.h>
+	<math.h>
+	<GL/glext.h>
+	"SOIL.h"
+	<string>
+
